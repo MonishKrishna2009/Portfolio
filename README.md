@@ -11,9 +11,8 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 - 📍 **Schooling Since:** 2013  
 - 🎓 **Completed Class 10:** Academic Batch 2024-25  
 - 💻 **Currently Pursuing:** Class 11 (Computer Science)  
-- 📅 **Date of Birth:** 31-05-2009  
 
-> Studying at Maharishi Vidya Mandir Sr Sc School has been a journey of growth and learning since 2013. Having completed my Class 10 in the academic batch 2024-25, I am now diving deeper into the world of Computer Science from Class 11, sharpening my skills and building a strong foundation for the future.  
+> Maharishi Vidya Mandir Sr Sc School has been a learning experience since 2013. After completing my Class 10 from the academic batch 2024-25, I am now exploring the subject of Computer Science from Class 11, enhancing my skills and laying a solid foundation for the future.  
 
 ---
 
@@ -26,17 +25,42 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 
 ---
 
-## 🛠️ Programming Languages & Tools
+### 🛠️ Programming Languages & Tools
 
-### 🌱 Currently Learning:
-- **Python**, **C#**, **MongoDB**, **MySQL**
+#### 🌱 <ins>Currently Learning:</ins>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+</div>
 
-### 💡 Experienced With:
-- **Languages & Frameworks:** JavaScript, TypeScript, HTML, CSS, Node.js, Flutter, Unity
-- **Tools & Technologies:** Nginx, Docker, Bash, Firebase, Linux, Git, Arduino
+#### 💡 <ins>Worked With:</ins>
+<div align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
+</div>
+
+#### 🛠️ <ins>Tools & Technologies</ins>
+<div align="left">
+  <!-- Tools & Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+</div>
 
 ---
-
+<!--
 ## 📈 Projects
 
 ### 🎮 Game Development Projects
@@ -49,16 +73,16 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 
 > Check out my [GitHub Repositories](https://github.com/MonishKrishna2009) for more!
 
----
+--- 
 
 ## 🌐 Let's Connect
 
-- [📂 Website](https://github.com/MonishKrishna2009)  
 - [💼 LinkedIn](https://www.linkedin.com/in/monishkrishna2009)  
 - [📝 Dev.to](https://dev.to/monish_krishna_159)  
 - 📧 [Email Me](mailto:monishkrishna951@gmail.com)  
 
 ---
+-->
 
 ## ⚡ Fun Fact
 I love getting lost in immersive games like **Ghost of Tsushima, The Last of Us, and Red Dead Redemption**—probably where my obsession with storytelling comes from. 🎮  
