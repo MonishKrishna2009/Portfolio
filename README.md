@@ -12,7 +12,7 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 - 🎓 **Completed Class 10:** Academic Batch 2024-25  
 - 💻 **Currently Pursuing:** Class 11 (Computer Science)  
 
-> Maharishi Vidya Mandir Sr Sc School has been a learning experience since 2013. After completing my Class 10 from the academic batch 2024-25, I am now exploring the subject of Computer Science from Class 11, enhancing my skills and laying a solid foundation for the future.  
+> Maharishi Vidya Mandir Sr Sc School has been a extraordinary learning experience since 2013. After completing my Class 10 from the academic batch 2024-25, I am now exploring the subject of Computer Science from Class 11, enhancing my skills and laying a solid foundation for the future.  
 
 ---
 
@@ -24,15 +24,28 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 - 🎮 Playing immersive games like **Ghost of Tsushima, The Last of Us, and Red Dead Redemption** inspires my storytelling passion.
 
 ---
+<!--
+## 📈 Projects
 
+### 🎮 Game Development Projects
+- **[Unity Game Project 1](#)** - AI-based character interaction game.
+- **[Unity Game Project 2](#)** - Procedural world generation experiment.
+
+### 🤖 AI & Machine Learning Projects
+- **[AI Project 1](#)** - Computer Vision application using Python.
+- **[AI Project 2](#)** - Deep Learning model for image recognition.
+
+> Check out my [GitHub Repositories](https://github.com/MonishKrishna2009) for more!
+
+--- 
+-->
 ### 🛠️ Programming Languages & Tools
 
 #### 🌱 <ins>Currently Learning:</ins>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
 #### 💡 <ins>Worked With:</ins>
@@ -60,29 +73,14 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 </div>
 
 ---
-<!--
-## 📈 Projects
-
-### 🎮 Game Development Projects
-- **[Unity Game Project 1](#)** - AI-based character interaction game.
-- **[Unity Game Project 2](#)** - Procedural world generation experiment.
-
-### 🤖 AI & Machine Learning Projects
-- **[AI Project 1](#)** - Computer Vision application using Python.
-- **[AI Project 2](#)** - Deep Learning model for image recognition.
-
-> Check out my [GitHub Repositories](https://github.com/MonishKrishna2009) for more!
-
---- 
-
 ## 🌐 Let's Connect
 
 - [💼 LinkedIn](https://www.linkedin.com/in/monishkrishna2009)  
 - [📝 Dev.to](https://dev.to/monish_krishna_159)  
-- 📧 [Email Me](mailto:monishkrishna951@gmail.com)  
+- [📧 Email Me](mailto:monishkrishna951@gmail.com)  
 
 ---
--->
+
 
 ## ⚡ Fun Fact
 I love getting lost in immersive games like **Ghost of Tsushima, The Last of Us, and Red Dead Redemption**—probably where my obsession with storytelling comes from. 🎮  
