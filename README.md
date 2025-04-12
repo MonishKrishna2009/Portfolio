@@ -24,21 +24,20 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 - 🎮 Playing immersive games like **Ghost of Tsushima, The Last of Us, and Red Dead Redemption** inspires my storytelling passion.
 
 ---
-<!--
+
 ## 📈 Projects
 
 ### 🎮 Game Development Projects
-- **[Unity Game Project 1](#)** - AI-based character interaction game.
-- **[Unity Game Project 2](#)** - Procedural world generation experiment.
+- AI-based character interaction game. (Yet to add links)
+- Procedural world generation experiment. (Yet to add links)
 
-### 🤖 AI & Machine Learning Projects
-- **[AI Project 1](#)** - Computer Vision application using Python.
-- **[AI Project 2](#)** - Deep Learning model for image recognition.
+### 🤖 Discord bot projects
+- Monk bot (Still under development)
 
 > Check out my [GitHub Repositories](https://github.com/MonishKrishna2009) for more!
 
 --- 
--->
+
 ### 🛠️ Programming Languages & Tools
 
 #### 🌱 <ins>Currently Learning:</ins>
@@ -75,9 +74,7 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 ---
 ## 🌐 Let's Connect
 
-- [💼 LinkedIn](https://www.linkedin.com/in/monishkrishna2009)  
-- [📝 Dev.to](https://dev.to/monish_krishna_159)  
-- [📧 Email Me](mailto:monishkrishna951@gmail.com)  
+- [📧 Email Me](monishkrishna951@gmail.com)
 
 ---
 
