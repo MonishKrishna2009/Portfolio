@@ -27,11 +27,8 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 
 ## 📈 Projects
 
-### 🎮 Game Development Projects
-- AI-based character interaction game. (Yet to add links)
-- Procedural world generation experiment. (Yet to add links)
-
 ### 🤖 Discord bot projects
+- [Apatite Bot](https://github.com/MonishKrishna2009/Apatite-Bot)
 - Monk bot (Still under development)
 
 > Check out my [GitHub Repositories](https://github.com/MonishKrishna2009) for more!
