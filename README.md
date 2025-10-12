@@ -27,9 +27,45 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 
 ## 📈 Projects
 
-### 🤖 Discord bot projects
-- [Apatite Bot](https://github.com/MonishKrishna2009/Apatite-Bot)
-- Monk bot (Still under development)
+### 🗑️ Trashformer - AI Waste Classification System
+**Deep Learning | Computer Vision | Flask Web Application**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/MonishKrishna2009/Trashformer)
+[![Accuracy](https://img.shields.io/badge/Accuracy-85.16%25-success?style=for-the-badge)](https://github.com/MonishKrishna2009/Trashformer)
+[![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+
+Waste classification system using **MobileNetV2 transfer learning** achieving **85.16% accuracy** across 7 waste categories. Built with TensorFlow/Keras and deployed as a Flask web application.
+
+#### ✨ Key Features
+- 🤖 **MobileNetV2 Transfer Learning** - Trained on 14,275 images
+- 🌐 **Flask Web Interface** - Upload, camera capture & batch processing
+- 📊 **Real-Time Classification** - Instant results with confidence scores
+- ⚡ **Optimized Performance** - Image compression and fast inference
+- 📚 **Complete Documentation** - Comprehensive guides with diagrams
+
+#### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+</div>
+
+#### 🎯 Waste Categories
+Cardboard • E-Waste • Glass • Medical • Metal • Paper • Plastic
+
+[🔗 View Project](https://github.com/MonishKrishna2009/Trashformer) | [📖 Documentation](https://github.com/MonishKrishna2009/Trashformer/blob/main/README.md) | [🚀 Quick Start](https://github.com/MonishKrishna2009/Trashformer/blob/main/QUICKSTART.md)
+
+---
+
+### 🤖 Discord Bot Projects
+- **[Apatite Bot](https://github.com/MonishKrishna2009/Apatite-Bot)** - Feature-rich Discord bot
+- **Monk Bot** - Advanced bot currently under development
+
+---
 
 > Check out my [GitHub Repositories](https://github.com/MonishKrishna2009) for more!
 
@@ -40,6 +76,8 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
 #### 🌱 <ins>Currently Learning:</ins>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 </div>
@@ -54,6 +92,10 @@ Hello! I'm **Monish Krishna**, a high school student with a deep interest in **A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </div>
 
 #### 🛠️ <ins>Tools & Technologies</ins>
